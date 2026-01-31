@@ -1,0 +1,1 @@
+# Studio_Funzione_Integrale

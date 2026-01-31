@@ -3,3 +3,5 @@ numpy
 matplotlib
 sympy
 scipy
+Pillow
+pix2tex[gui]

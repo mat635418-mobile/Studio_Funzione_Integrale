@@ -5,3 +5,4 @@ sympy
 scipy
 Pillow
 pix2tex[gui]
+requests
